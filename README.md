@@ -1,5 +1,10 @@
 # Customer Support Performance Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Analytics-orange?style=for-the-badge)
+
 ## 📌 Project Overview
 
 This Power BI dashboard was developed to analyze customer support operations and provide decision-makers with clear, interactive insights into service performance. The report consolidates key operational metrics into a single dashboard, allowing managers to monitor trends, evaluate team performance, and identify opportunities to improve customer satisfaction and operational efficiency.
