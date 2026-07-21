@@ -140,26 +140,28 @@ Data Analyst Portfolio Project
 
 ---
 
-# Dashboard Preview
+# 📊 Dashboard Preview
 
-## Executive Overview
+---
+
+## 📌 Executive Overview
 
 ![Executive Dashboard](01_Executive_Dashboard.png)
 
 ---
 
-## Agent Performance
+## 👥 Agent Performance
 
 ![Agent Performance](02_Agent_Performance.png)
 
 ---
 
-## Customer Experience
+## 😊 Customer Experience
 
 ![Customer Experience](03_Customer_Experience.png)
 
 ---
 
-## Operational Insights
+## ⚙️ Operational Insights
 
 ![Operational Insights](04_Operational_Insights.png)
