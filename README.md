@@ -153,6 +153,12 @@ Based on the dashboard analysis, organizations could consider the following acti
 - Increase the First Contact Resolution rate to reduce escalations and improve customer experience.
 - Use dashboard insights during weekly operational reviews to support data-driven decision-making.
 
+## 🎓 Lessons Learned
+
+Developing this project strengthened my ability to transform raw operational data into meaningful business insights. Throughout the process, I improved my skills in Power BI, DAX, data modeling, dashboard design, and KPI reporting while focusing on creating visualizations that support real business decisions.
+
+This project also reinforced the importance of presenting analytical findings in a clear and actionable way, ensuring that decision-makers can quickly understand performance trends and identify opportunities for improvement.
+
 ---
 
 ## 👤 Author
