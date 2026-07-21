@@ -108,6 +108,17 @@ This dashboard enables managers to:
 
 ---
 
+## 📌 Key Performance Indicators
+
+| KPI | Description |
+|------|-------------|
+| Total Tickets | Total number of customer support tickets analyzed |
+| Average CSAT | Average customer satisfaction score |
+| Average Resolution Hours | Average time required to resolve a support ticket |
+| First Contact Resolution | Percentage of tickets resolved during the first interaction |
+| Escalated Tickets | Total number of escalated support tickets |
+| Reopened Tickets | Total number of reopened support tickets |
+
 ## 📈 Business Insights
 
 This dashboard enables managers to:
