@@ -9,6 +9,17 @@
 
 This Power BI dashboard was developed to analyze customer support operations and provide decision-makers with clear, interactive insights into service performance. The report consolidates key operational metrics into a single dashboard, allowing managers to monitor trends, evaluate team performance, and identify opportunities to improve customer satisfaction and operational efficiency.
 
+## 🚀 Skills Demonstrated
+
+- Power BI Dashboard Development
+- Data Modeling
+- Data Cleaning & Transformation
+- DAX Measures
+- KPI Development
+- Interactive Visualizations
+- Business Intelligence Reporting
+- Data Storytelling
+
 ---
 
 ## 🎯 Business Problem
