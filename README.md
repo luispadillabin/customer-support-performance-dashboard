@@ -134,9 +134,17 @@ This dashboard enables managers to:
 
 ## 👤 Author
 
-Luis Padilla
+**Luis Padilla**
 
-Data Analyst Portfolio Project
+**Data Analyst | Business Intelligence | Power BI | Excel | SQL**
+
+MBA | Business Administration
+
+📍 Guatemala
+
+---
+
+*This project is part of my professional Data Analytics portfolio and demonstrates my ability to transform operational data into actionable business insights using Power BI.*
 
 ---
 
