@@ -132,16 +132,16 @@ This dashboard enables managers to:
 | Escalated Tickets | Total number of escalated support tickets |
 | Reopened Tickets | Total number of reopened support tickets |
 
-## 📈 Business Insights
+## 📈 Key Business Insights
 
-This dashboard enables managers to:
+The dashboard provides valuable operational insights, including:
 
-- Monitor support performance in real time.
-- Identify top-performing agents.
-- Detect recurring customer issues.
-- Improve customer satisfaction.
-- Reduce resolution times.
-- Monitor escalation and reopening trends.
+- Customer support performance can be monitored using centralized KPIs.
+- Agent productivity can be compared to identify coaching opportunities.
+- Customer satisfaction trends help evaluate service quality.
+- Ticket resolution metrics highlight operational efficiency.
+- Escalation and reopening trends reveal opportunities for process improvement.
+- Interactive filtering enables faster operational decision-making.
 
 ---
 
